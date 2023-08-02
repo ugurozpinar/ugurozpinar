@@ -2,6 +2,4 @@
 
 Software developer focused on JavaScript
 
-Official website:
-
 ### [ugurozpinar.com](https://ugurozpinar.com)
